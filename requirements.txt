@@ -1,0 +1,4 @@
+ssl
+requests
+urllib3
+python_graphql_client

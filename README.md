@@ -1,2 +1,2 @@
 # python-helper-snippets
-Little Python Helper Code Snippets
+Little Collection of Python Code Snippets
